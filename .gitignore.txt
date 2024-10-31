@@ -1,0 +1,2 @@
+# ignore aal .txt files
+*.txt
